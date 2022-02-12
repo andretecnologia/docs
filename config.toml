@@ -2,7 +2,13 @@ baseURL = 'https://andretecnologia.github.io/docs'
 languageCode = 'en-us'
 title = 'API Docs'
 theme = 'beautifulhugo'
-sectionPagesMenu = 'main'
+pluralizelisttitles = false
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
 [menu]
 [[menu.main]]
   identifier = 'about'
