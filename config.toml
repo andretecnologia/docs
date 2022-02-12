@@ -1,11 +1,11 @@
-baseURL = 'https://andretecnologia.github.io'
+baseURL = 'https://andretecnologia.github.io/docs'
 languageCode = 'en-us'
 title = 'API Docs'
 theme = 'beautifulhugo'
 [menu]
 [[menu.main]]
   identifier = 'about'
-  name = 'about hugo'
+  name = 'about'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = -110
