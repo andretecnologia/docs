@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andretecnologia.github.io/docs/your-page/</loc>
+    <loc>https://andretecnologia.github.io/about/</loc>
     <lastmod>2022-02-12T10:53:43-03:00</lastmod>
   </url><url>
-    <loc>https://andretecnologia.github.io/docs/</loc>
+    <loc>https://andretecnologia.github.io/</loc>
+    <lastmod>2022-02-12T10:53:43-03:00</lastmod>
+  </url><url>
+    <loc>https://andretecnologia.github.io/getting-started/</loc>
+    <lastmod>2022-02-12T10:53:43-03:00</lastmod>
+  </url><url>
+    <loc>https://andretecnologia.github.io/about/your-page/</loc>
+    <lastmod>2022-02-12T10:53:43-03:00</lastmod>
+  </url><url>
+    <loc>https://andretecnologia.github.io/getting-started/your-page/</loc>
+    <lastmod>2022-02-12T10:53:43-03:00</lastmod>
+  </url><url>
+    <loc>https://andretecnologia.github.io/your-page/</loc>
+    <lastmod>2022-02-12T10:53:43-03:00</lastmod>
+  </url><url>
+    <loc>https://andretecnologia.github.io/posts/my-first-post/</loc>
     <lastmod>2022-02-12T10:39:08-03:00</lastmod>
   </url><url>
-    <loc>https://andretecnologia.github.io/docs/posts/my-first-post/</loc>
+    <loc>https://andretecnologia.github.io/posts/</loc>
     <lastmod>2022-02-12T10:39:08-03:00</lastmod>
   </url><url>
-    <loc>https://andretecnologia.github.io/docs/posts/</loc>
-    <lastmod>2022-02-12T10:39:08-03:00</lastmod>
+    <loc>https://andretecnologia.github.io/categories/</loc>
   </url><url>
-    <loc>https://andretecnologia.github.io/docs/categories/</loc>
-  </url><url>
-    <loc>https://andretecnologia.github.io/docs/tags/</loc>
+    <loc>https://andretecnologia.github.io/tags/</loc>
   </url>
 </urlset>
